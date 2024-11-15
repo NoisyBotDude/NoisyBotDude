@@ -47,9 +47,7 @@ Here are some of my favorite projects:
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/ashish-sarmah)
-- [Twitter](https://twitter.com/ashish_sarmah)
-- [Personal Website](https://ashishsarmah.dev)
+- [LinkedIn](https://www.linkedin.com/in/ashishsarmah/)
 
 ---
 
