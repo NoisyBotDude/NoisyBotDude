@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Ashish Sarmah
+# 👋 Hello, World!
 
 ![Profile Banner](https://example.com/your-banner-image.jpg)
 
